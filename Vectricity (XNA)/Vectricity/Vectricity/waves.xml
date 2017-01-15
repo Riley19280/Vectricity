@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="GeoArena.WaveManager">
+<Waves>
+    <wave1>
+      <spawns>
+      <section>
+        <enemy>0</enemy>
+        <enemy>1</enemy>
+        <enemy>2</enemy>
+        <enemy>3</enemy>
+      </section>
+      <section>
+        <enemy>4</enemy>
+        <enemy>5</enemy>
+        <enemy>6</enemy>
+        <enemy>7</enemy>
+      </section>
+      <section>
+        <enemy>8</enemy>
+        <enemy>9</enemy>
+        <enemy>10</enemy>
+        <enemy>11</enemy>
+      </section>
+      <section>
+        <enemy>12</enemy>
+        <enemy>13</enemy>
+        <enemy>14</enemy>
+        <enemy>15</enemy>
+      </section>
+        </spawns>
+    </wave1>
+</Waves>
+    </Asset>
+</XnaContent>

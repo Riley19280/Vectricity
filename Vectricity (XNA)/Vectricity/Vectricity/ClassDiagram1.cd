@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Vectricity.Enemy" Collapsed="true">
+    <Position X="15.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQIgACJCAAAg4AhBCIAUBECCBAAASCADAQAgAgAAAg=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.Triangle" Collapsed="true">
+    <Position X="10.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.Splitter" Collapsed="true">
+    <Position X="13" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.Splitter2" Collapsed="true">
+    <Position X="15.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.Shooter" Collapsed="true">
+    <Position X="17.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.CloudBoss" Collapsed="true">
+    <Position X="19.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAAAABwAAICABAAAAAJAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.GameRoot" Collapsed="true">
+    <Position X="27.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEAABAAAAwAAAAAAAAAAAAAAAAgAQAAAAAAAAAQ=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.GM" Collapsed="true">
+    <Position X="24" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAgBIAAIAxQAAAIAgAAAAAAAACAAAQgAACAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.InputManager" Collapsed="true">
+    <Position X="25.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAQNIAAAAAAAAAAAAAIAAAAAAAAAAAABAEAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.PlayerManager" Collapsed="true">
+    <Position X="25.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>4BQAAAAgAAAAAgAAAAAAAAAAAAAAAAABIAAAAAIAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.CollisionManager" Collapsed="true">
+    <Position X="25.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.WaveManager" Collapsed="true">
+    <Position X="24" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAQAQEAEAABAAIAEEAIgAACABAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.EnemyManager" Collapsed="true">
+    <Position X="24" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAIEgAAAAAAgAAAAQAAAAAAAAAAAARAAAAgAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.ItemManager" Collapsed="true">
+    <Position X="25.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBQAAAAAgAAAAgAgAACAAAAAAAAAAIAAAABAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.Bullets" Collapsed="true">
+    <Position X="24" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAYAAAAAAIAAAwAgCAAABAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.Art" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIAAAAAEkQAACRABgAAEAAAAABAAAACEABAgAQCTAgY=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.Items" Collapsed="true">
+    <Position X="13" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAAAAAgAAAAIAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.PlayerShip" Collapsed="true">
+    <Position X="27.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQICIAECAIEA4AhAAMCEFAGBBgIEYAAAAIAgAIgIMI=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.InputMethod" Collapsed="true">
+    <Position X="1.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ayRAQBBAJAKgA1EAAidBSJA4AKhoBEBhBEEAAMkxAKI=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.ControllerInput" Collapsed="true">
+    <Position X="0.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAACAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.KeyboardInput" Collapsed="true">
+    <Position X="2.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAABACA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.Freeze" Collapsed="true">
+    <Position X="10.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAAAAAgAAAAAAAAACABAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.Firewall" Collapsed="true">
+    <Position X="13" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAAAAAgAAAAAAAAACABAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.Tower" Collapsed="true">
+    <Position X="15.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABCEAAAAAgAAAACAAAACABAAAAAAAAAQAAAAIAI=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.ParticleManager" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAABAAAAAgAgAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.Particles" Collapsed="true">
+    <Position X="27.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAAAABgAAAAKAAAAAABAAAAAAAAQQAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.ScreenManager" Collapsed="true">
+    <Position X="22.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQCAAAAAAAAgwAAAAAAAFAAAAAACAAAgAgAAAAAAAQ=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.GameScreen" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAEAAAQ=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.TitleScreen" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAEooAAAgBAAAEAAAAgAAAoHAAAAFAAAQ=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.GameGUI" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAEAAAQ=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.options" Collapsed="true">
+    <Position X="14.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAAAAAEoAAAAgAAAAAAAAAgAAAADAAAAEAAAQ=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.buyScreen" Collapsed="true">
+    <Position X="17" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAwAAAAAAAAAIgEABAAAAABQAQBIgACBAQAAEAAAAAI=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.highScore" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAggAAAAAAAAABAAAAAABIAAAAAAAAAQ=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.waveAlret" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAEAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.resumeCountdown" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAEAAAAgAIAAAAAAAIAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.Pause" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAEogAAAgBAAAEAAAAgAABAHAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.baseBullet" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQIAhSASAAEg4AgBAIAAAQCAAAEAQCQAQAAAAAIgAI=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.bullet_T1" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.bullet_T1_Bounce" Collapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAAAAAwAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.bullet_T2" Collapsed="true">
+    <Position X="7.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.bullet_T3" Collapsed="true">
+    <Position X="7.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.bullet_T4" Collapsed="true">
+    <Position X="7.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.bullet_T5" Collapsed="true">
+    <Position X="7.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.laser_T1" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.laser_T2" Collapsed="true">
+    <Position X="5.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.laser_T3" Collapsed="true">
+    <Position X="5.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.laser_T4" Collapsed="true">
+    <Position X="5.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.laser_T5" Collapsed="true">
+    <Position X="5.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.missile_T1" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.missile_T2" Collapsed="true">
+    <Position X="2.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.missile_T3" Collapsed="true">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.missile_T4" Collapsed="true">
+    <Position X="1" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.missile_T5" Collapsed="true">
+    <Position X="3.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.missile_mini" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.missile_track" Collapsed="true">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAAAAAAAAACAAAAAACAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectricity.Program" Collapsed="true">
+    <Position X="22.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
